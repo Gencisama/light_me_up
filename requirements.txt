@@ -1,1 +1,4 @@
-streamlit==0.80.0
+streamlit==1.4.0
+serial==1.1.0
+time==1.0.0
+ard==0.0.0
