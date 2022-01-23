@@ -1,4 +1,3 @@
-import serial
 import pyfirmata
 
 import time
