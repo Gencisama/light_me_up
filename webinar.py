@@ -28,4 +28,4 @@ if st.button('Find out'):
     st.text('...')
     time.sleep(3)
     st.text('its because of this mf')
-    st.image('./me.png')
+    st.image('./me.png', width = 300)
